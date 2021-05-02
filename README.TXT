@@ -23,3 +23,5 @@ USER INSTRUCTIONS:
 - user dapat winner jika skornya >2000 dan nyawa blum habis dan berhasil menangkap objek bintang.
 
 ==========================selamat berjuang==================
+
+#Screenshot
